@@ -1,0 +1,58 @@
+body{
+   
+    background:linear-gradient(90deg,rgba(218, 235, 41, 0.5),50%,#e215a880);
+    
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 18px;
+      
+  }
+  .container
+  {
+    background-color:rgba(22, 21, 22, 0.467);
+    margin: 250px auto 250px;
+    width:500px;
+    height: 300px;
+    display: grid;
+    justify-items: center;
+  }
+  .box select
+  {
+    
+    width: 200px;
+    border-radius: 10px;
+    background-color:aliceblue;
+    height: 35px;
+    margin: 5px;
+  }
+  .box input
+  {
+    width: 200px;
+    border-radius: 10px;
+    background-color:blanchedalmond;
+    height: 30px;
+    padding: 2px;
+    margin: 5px;
+  }
+  #btn
+  {
+    border: 2px solid black;
+    border-radius:10px ;
+    background-color: darkgray;
+    color: black;
+    width: 100px;
+    height:25px;
+    margin: 5px;
+  
+    font-size: 18px;
+    cursor:auto;
+    align-self: center;
+  
+  }
+  #mistake
+  {
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 1px;
+  }
+  
